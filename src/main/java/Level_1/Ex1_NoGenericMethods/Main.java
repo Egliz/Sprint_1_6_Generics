@@ -8,7 +8,5 @@ public class Main {
 
         System.out.println(noGenericM1.getElement1() + ", " + noGenericM1.getElement2() + ", " + noGenericM1.getElement3());
         System.out.println(noGenericM2.getElement1() + ", " + noGenericM2.getElement2() + ", " + noGenericM2.getElement3());
-
     }
-
 }

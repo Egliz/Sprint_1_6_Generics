@@ -20,7 +20,7 @@ public class NoGenericMethods {
         return element3;
     }
 
-    public String getElement1() {
+    public  String getElement1() {
         return element1;
     }
 
