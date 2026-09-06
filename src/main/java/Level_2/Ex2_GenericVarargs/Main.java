@@ -1,8 +1,5 @@
 package Level_2.Ex2_GenericVarargs;
 
-import Level_2.Ex1_PartialGenerics.GenericMethods;
-import Level_2.Ex1_PartialGenerics.Person;
-
 public class Main {
     public static void main(String[] args) {
 
